@@ -1,11 +1,12 @@
 from flask import Flask, render_template
-from rdbh.extensions import configuration
-from flask_bootstrap import Bootstrap
+from rdbh.extensions import configuration, appearance
+
 
 app = Flask(__name__)
 
 configuration.init_app(app)
-Bootstrap(app)
+appearance.init_app(app)
+
 
 @app.route('/')
 def index():
