@@ -1,5 +1,6 @@
 from flask import Flask
-from rdbh.extensions import configuration, appearance, views
+from rdbh.extensions import configuration, appearance
+from rdbh.blueprints import views
 
 
 app = Flask(__name__)
