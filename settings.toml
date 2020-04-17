@@ -1,0 +1,4 @@
+[default]
+DEBUG = false
+TITLE = "@rdrgzbhnng web"
+TEMPLATES_AUTO_RELOAD = true
