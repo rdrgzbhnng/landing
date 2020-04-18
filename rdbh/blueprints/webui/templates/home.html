@@ -1,16 +1,10 @@
 {% extends "bootstrap/base.html" %}
 {% block title %}{{config.get('TITLE')}}{% endblock %}
 
-
-{% block navbar %}
-<div class="navbar">
-</div>
-{% endblock %}
-
 {% block content %}
 <div class="container">
-<h1>{{config.get('TITLE')}}</h1>
-<h2>Hallo Python!</h2>
-
+  <h4 style="color:#999999">{{config.get('TAG')}}</h4>
+  <h2>{{config.get('INTRO')}}</h2>
+  <h3>{{config.get('HEADLINE')}}</h3>
 </div>
 {% endblock %}
