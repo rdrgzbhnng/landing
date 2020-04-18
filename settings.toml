@@ -1,5 +1,7 @@
 [default]
 DEBUG = false
 TAG = "@rdrgzbhnng"
-INTRO = "Hi, I’m Carlos Alberto Rodriguez Behning."
-HEADLINE = "You might call me a UX, Prototyper, or Interaction Designer. I'm specialised on Interaction Design with an enthusiastic focus on the Human-Centered Service Design mindset. Hope to see you soon."
+INTRO = "I’m Carlos Alberto Rodriguez Behning."
+HEADLINE1 = "You might call me a UX, Prototyper, or Interaction Designer."
+HEADLINE2 = "I’m specialised on Interaction Design with an enthusiastic focus on the Human-Centered Service Design mindset."
+BYE = "Hope to see you soon."
