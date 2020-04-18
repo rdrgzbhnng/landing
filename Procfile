@@ -1,1 +1,1 @@
-web: gunicorn app:rdbh/app
+web: gunicorn rdbh.app:app
