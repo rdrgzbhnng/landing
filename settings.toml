@@ -1,7 +1,7 @@
 [default]
 DEBUG = false
-TAG = "@rdrgzbhnng"
-INTRO = "I’m Carlos Alberto Rodriguez Behning."
-HEADLINE1 = "You might call me a UX, Prototyper, or Interaction Designer."
-HEADLINE2 = "I’m specialised on Interaction Design with an enthusiastic focus on the Human-Centered Service Design mindset."
+TITLE = "@rdrgzbhnng"
+HEADLINE1 = "I am a UX Designer specialised in Interaction Design with an enthusiastic focus on the Human-Centered Design."
+HEADLINE2 = "I like the quiet life and beautiful things, less but better. I appreciate sincere people and I hate mediocre and confusing stuff."
 BYE = "Hope to see you soon."
+SIGNATURE = "Carlos Alberto Rodriguez Behning"
