@@ -20,6 +20,5 @@ bp.add_url_rule("/resume", view_func=resume)
 bp.add_url_rule("/book", view_func=book)
 bp.add_url_rule("/cv", view_func=cv)
 
-
 def init_app(app):
     app.register_blueprint(bp)
